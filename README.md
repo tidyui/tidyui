@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi there, I'm Håkan Edling
 
-<!--
-**tidyui/tidyui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Microsoft MVP in Developer Technologies and work as a lead developer and in-house consultant at [byBrick Interface](https://www.bybrick.se/interface-en/home/), a digital agency that focuses on technical sales solutions for the industrial sector. A lot of my free time goes into developing and maintaining [Piranha Cms](https://piranhacms.org), an open source CMS framework for `.NET Core` which you of course can find [here](https://github.com/PiranhaCMS/piranha.core) on GitHub.
 
-Here are some ideas to get you started:
+Besides programming I like to:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Hang out with my family
+* Walk the dog
+* Play bass guitar
+* Record, mix and produce music
+
+### How to find me
+
+If you want to get in touch you can find me on [Twitter](https://twitter.com/tidyui) and [LinkedIn](https://www.linkedin.com/in/hakanedling/).
