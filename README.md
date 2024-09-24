@@ -1,6 +1,6 @@
 ### Hi there, I'm Håkan Edling
 
-I am a Microsoft MVP in Developer Technologies and work as a software engineer at [Optimizely](https://www.episerver.com). A lot of my free time goes into developing and maintaining [Piranha CMS](https://piranhacms.org), an open source CMS framework for `.NET Core` which you of course can find [here](https://github.com/PiranhaCMS/piranha.core) on GitHub.
+I am a Microsoft MVP in Developer Technologies and work as a Product Manager at [Optimizely](https://www.episerver.com). A lot of my free time goes into developing and maintaining [Piranha CMS](https://piranhacms.org), an open source CMS framework for `.NET Core` which you of course can find [here](https://github.com/PiranhaCMS/piranha.core) on GitHub.
 
 Besides programming I like to:
 
